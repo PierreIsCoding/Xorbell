@@ -8,6 +8,8 @@ However I got the idea from Kristian Blasol Modular in a week day 9.3: https://w
 
 I added two opamp output buffers, and changed the potentiometers to fixed values and added two switches that let you choose between two sounds each. With this the module gives you two lower tweaked and two higher tweaked Xorbells. I encourage you to breadboard this project first and find your sweetspot values for R8, R9, R10 and R11. 
 
+Keep in mind that this module uses a trick for the input gates + decay. By this the output volume depends on the input voltage and how that incomming trigger / gate is buffered. Therefore an improvement would be to add proper input buffers.
+
 
 <img src="https://raw.githubusercontent.com/PierreIsCoding/Xorbell/main/images/xorbell.jpg" width="300" />
 
