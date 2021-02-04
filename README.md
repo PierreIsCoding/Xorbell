@@ -11,5 +11,8 @@ I added two opamp output buffers, and changed the potentiometers to fixed values
 Keep in mind that this module uses a trick for the input gates + decay. By this the output volume depends on the input voltage and how that incomming trigger / gate is buffered. Therefore an improvement would be to add proper input buffers.
 
 
+Tip: If you would use a SPDT toggle switch (a tripple legged switch) instead of a SPST switch you will get an extra sound for each channel in its "off" position.
+
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/Xorbell/main/images/xorbell.jpg" width="300" />
 
