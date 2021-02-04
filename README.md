@@ -1,7 +1,7 @@
 # Dual Xorbell
 
 The Xorbell is very simple and cool little drum module. 
-It gives a metallic cowbell like sound with its logic XOR chip; hence the name.
+It gives a metallic cowbell like sound with its XOR logic chip; hence the name.
 
 The Original concept came from Elliot Williams: https://hackaday.com/2015/04/10/logic-noise-more-cmos-cowbell/
 However I got the idea from Kristian Blåsol's Modular in a week day 9.3: https://youtu.be/50Wdc--Ln-g
